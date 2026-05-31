@@ -2,10 +2,13 @@
 <br>Construyo aplicaciones full‑stack que conectan el mundo web, la inteligencia artificial y el hardware real. <br><br>Con 18 años, ya he arquitecturado y desplegado plataformas en producción para empresas en México y Europa: desde un ecosistema corporativo de 9 secciones (React, Tailwind, Framer Motion) hasta una PWA IoT que controla riego en tiempo real (MQTT, ESP32, Flask).
 <br><br>Mi stack técnico:
 - Frontend: React, Tailwind, Vite, Figma → Pixel‑perfect, 60 FPS, SEO optimizado.
-- Backend e IA: Python (Flask, FastAPI), n8n, APIs de Llama 3 / OpenAI → automatización y agentes cognitivos. <br><br>
+- Backend e IA: Python (Flask, FastAPI), n8n, APIs de Llama 3 / OpenAI → automatización y agentes cognitivos.
 - IoT e infraestructura: MQTT, Chart.js, Docker, Vercel, MySQL.
 
-<br>Lo que me mueve: <br><br>- Código limpio y mantenible que escala. <br><br>- Resolver problemas reales de negocio, no solo escribir funciones. <br><br>- Aprender construyendo – cada proyecto me hace mejor ingeniero. <br><br>Estoy abierto a roles freelance, por contrato o tiempo completo donde pueda aportar desde el día uno. Conectemos y creemos tecnología que realmente marque la diferencia.
+<br>Lo que me mueve: 
+- Código limpio y mantenible que escala.
+- Resolver problemas reales de negocio, no solo escribir funciones.
+- Aprender construyendo – cada proyecto me hace mejor ingeniero. <br><br>Estoy abierto a roles freelance, por contrato o tiempo completo donde pueda aportar desde el día uno. Conectemos y creemos tecnología que realmente marque la diferencia.
 
 
 ## 🌐 Socials:
