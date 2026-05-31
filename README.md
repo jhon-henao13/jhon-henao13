@@ -8,7 +8,9 @@
 <br>Lo que me mueve: 
 - Código limpio y mantenible que escala.
 - Resolver problemas reales de negocio, no solo escribir funciones.
-- Aprender construyendo – cada proyecto me hace mejor ingeniero. <br><br>Estoy abierto a roles freelance, por contrato o tiempo completo donde pueda aportar desde el día uno. Conectemos y creemos tecnología que realmente marque la diferencia.
+- Aprender construyendo – cada proyecto me hace mejor ingeniero.
+
+Estoy abierto a roles freelance, por contrato o tiempo completo donde pueda aportar desde el día uno. Conectemos y creemos tecnología que realmente marque la diferencia.
 
 
 ## 🌐 Socials:
